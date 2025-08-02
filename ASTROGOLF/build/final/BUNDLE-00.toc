@@ -1,0 +1,3 @@
+([('final',
+   '/Users/soren/Documents/UST/spring2025/comp_phys/phys325-repo-sorenair/dist/final',
+   'EXECUTABLE')],)
